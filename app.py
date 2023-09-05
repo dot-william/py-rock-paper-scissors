@@ -73,3 +73,9 @@ while play_again:
     play_again = ask_play_again()
 
 winner(player_name, player_score, computer_score)
+
+# Need more proper documentation, add more comments (multi-line) what the functions do and the parameters
+'''
+If you are deployed in projects clients can be strict on the requirements
+ e.g. Using only two functions
+'''
